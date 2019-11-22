@@ -1,3 +1,3 @@
 # photography-portfolio
 
-this site don't support responsive design!
+this site doesn't support responsive design!
