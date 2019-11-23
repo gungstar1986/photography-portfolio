@@ -1,10 +1,81 @@
 
-@media screen and (max-width: 1366px) {
+@media screen and (max-width: 1367px) {
     .main-site-container {
         padding-left: 100px;
         padding-bottom: 100px;
     }
     .happy-clients-container {
-        min-height: 255px;
+        min-height: 253px; 
+    }
+    .about-myself-text-2 {
+        width: 90%;
+    }
+    .portfolio-text-4 {
+        left: -168px;
+    }
+    .portfolio-text-3 {
+        top: 570px;
+        left: 273px;
+    }
+    .portfolio-text-2 {
+        margin-top: -515px;
+    }
+    .portfolio-text-1 {
+        font-size: 30pt;
+        height: 640px;
+    }
+    .portfolio-text-block {
+        padding-left: 40px;
+        padding-right: 20px;
+    }
+    .photos-rows img {
+        height: 229px;
+    }
+    .blog-text-top-2 {
+        margin: 0px 35px 66px;
+    }
+    .block-text-1 {
+        margin: 15px 54px;
+        font-size: 19pt;
+    }
+    .block-text-2 {
+        margin: 20px 53px;
+    }
+    .block-text-3 {
+        margin: 22px 49px;
+    }
+    .photos-button {
+        margin: 30px 0 0 45px;
+    }
+    .photos-column-block img {
+        height: 229px;
+        width: 300px
+    }
+    .share img {
+        width: 20px;
+        height: 20px; 
+    }
+    .share {
+        top: 168px;
+        left: 142px;
+    }
+    .social img {
+        height: 20px;
+        width: 100px;
+    }
+    .social {
+        top: 200px;
+        left: 106px;
+    }
+    .plus img {
+        height: 50px;
+        width: 50px;
+    }
+    .plus {
+        left: 128px;
+        top: 74px;
+    }
+    .blog-text-top-1 {
+        margin: -10px 0 45px 0;
     }
 }
